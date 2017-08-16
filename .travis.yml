@@ -1,4 +1,4 @@
 language: java
 sudo: enabled
-os: window
+os: windows
 
