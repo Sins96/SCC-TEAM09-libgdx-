@@ -6,8 +6,8 @@ robovm-build/
 project.xcworkspace/
 xcuserdata/
 xcode/native/
-build/
 .gradle/
+build/
 bin/
 target/
 obj/
