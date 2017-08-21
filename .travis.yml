@@ -2,3 +2,13 @@ language: java
 os: linux
 group: stable
 dist: precise
+
+jdk:
+- oracle jdk8
+- oracle jdk7
+- openjdk7
+
+before_script:
+- chmod a+x gradlew
+
+sccript: ./gradlew build
